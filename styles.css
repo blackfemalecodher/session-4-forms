@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(118, 173, 101);
+    margin-left: 100px;
+     }
+
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;    
+}     
